@@ -5,5 +5,6 @@ export default {
 
     ezyApi() {
         return '<script src="https://cdn.tailwindcss.com"></script>';
+        
     }
 };
