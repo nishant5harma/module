@@ -1,5 +1,5 @@
 export default {
-    asus() {
+    asus7() {
         return '<script src="https://cdn.jsdelivr.net/npm/ezyapi@latest/ezyapi.min.js"></script>';
     },
 
