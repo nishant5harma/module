@@ -1,5 +1,5 @@
 export default {
-    asus7() {
+    purpleFrog() {
         return '<script src="https://cdn.jsdelivr.net/npm/ezyapi@latest/ezyapi.min.js"></script>';
     },
 
